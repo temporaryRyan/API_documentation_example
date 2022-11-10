@@ -4,7 +4,7 @@ This is an example of a table used to document endpoints in an API project
 ## API Endpoints
 
 | Method       | URL | Result | Params |
-| :--- |:---| :---|
+| :--- |:---| :---| :---|
 |GET| `localhost:3000/`| Returns a list of all quotes in the database| None required |
 |GET | `localhost:3000/quotes`| Returns a list of all quotes in the database| None required |
 |GET | `localhost:3000/quotes/38`| Returns all information related to quote with ID=38| :id - The id of a particular quote |
